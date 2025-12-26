@@ -167,7 +167,7 @@ function App() {
         <section className="hero">
           <div className="container hero-content">
             <div className="hero-text">
-              <h2 className="hero-title">Connect Groups with Groups</h2>
+              <h2 className="hero-title">Meet People With Your People</h2>
               <p className="hero-subheader">
                 Mink is an innovative app designed to facilitate connections
                 between groups of users.

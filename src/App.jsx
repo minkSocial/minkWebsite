@@ -24,10 +24,12 @@ import marketImage from "./assets/images/invites.jpg";
 import investorImage from "./assets/images/guyInChair.jpg";
 import teamImage from "./assets/images/collegeKid.jpg";
 import ctaImage from "./assets/images/folksWaiting.jpg";
-import profileCreationImg from "./assets/images/userProfileCreation.png";
+// TODO: Download these images from iCloud: userProfileCreation.png, groupDiscovery.png, groupPipeline.png
+// Using temporary placeholders until files are downloaded
+import profileCreationImg from "./assets/images/groupFormation.png"; // Temporary placeholder
 import groupCreationImg from "./assets/images/groupFormation.png";
-import groupDiscoveryImg from "./assets/images/groupDiscovery.png";
-import groupPipelineImg from "./assets/images/groupPipeline.png";
+import groupDiscoveryImg from "./assets/images/groupFormation.png"; // Temporary placeholder
+import groupPipelineImg from "./assets/images/groupFormation.png"; // Temporary placeholder
 import democraticMatchImg from "./assets/images/democraticMatchTrigger.jpeg";
 import groupChatImg from "./assets/images/groupChat.png";
 
